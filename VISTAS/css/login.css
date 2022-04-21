@@ -1,0 +1,41 @@
+﻿html {
+    margin: 0px;
+    padding: 0px;
+}
+.loginbox {
+    margin: 30px auto;
+    width: 320px;
+}
+
+
+
+#background-video {
+    display: flex;
+    position: fixed;
+    width: 100vw;
+    height: 98vh;
+    z-index: -1;
+}
+
+.jumbotron {
+    background-color: rgba(255,255,255,0%);
+    height: 400px;
+}
+.btn-primary {
+    background-color: #c73434;
+    border-color: #8d8a8a;
+}
+.h5, h5 {
+    font-size: 12px;
+}
+.panel-default>.panel-heading {
+    color: red;
+    background-color: #c73434;
+    border-color: #808080;
+}
+.panel-footer {
+    background-color: #ebebeb;
+    border-top: 1px solid #ddd;
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+}
